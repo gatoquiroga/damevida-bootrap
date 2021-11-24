@@ -65,6 +65,12 @@
     
 }
 
+/*contacto*/
+.maincontacto {
+    background-color: rgb(89, 160, 89);
+   display: flex;
+   justify-content: center;
+}
 
 /* footer */
 .imgfooter {
